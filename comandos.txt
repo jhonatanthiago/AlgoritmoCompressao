@@ -1,0 +1,3 @@
+Passo 1: g++ -o huffman huffman.cpp
+
+Passo 2: huffman.exe
